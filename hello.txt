@@ -1,1 +1,5 @@
 hello from local
+
+add login funtion
+
+nav bar added
